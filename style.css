@@ -1,0 +1,14 @@
+/*найти ошибку в css  коде, исправить ее и прокомментировать, написать одной строкой свойства для рамки*/
+td.suur{
+height: 500px;
+display: block;
+bacground-color: #d8d8d8;
+border:10px;
+border-style: double;
+border-color: #a8a8a8;
+border-radius: 20px 10px 20px 20px;
+margin: 20px;
+padding: 10px;
+textalign: left;
+fontfamily: georgia;
+}
